@@ -1,0 +1,10 @@
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\bin\Debug\Sports Broadcaster.exe.config
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\bin\Debug\Sports Broadcaster.exe
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\bin\Debug\Sports Broadcaster.pdb
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\obj\Debug\Sports Broadcaster.csproj.AssemblyReference.cache
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\obj\Debug\Sports_Broadcaster.Form1.resources
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\obj\Debug\Sports_Broadcaster.Properties.Resources.resources
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\obj\Debug\Sports Broadcaster.csproj.GenerateResource.cache
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\obj\Debug\Sports Broadcaster.csproj.CoreCompileInputs.cache
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\obj\Debug\Sports Broadcaster.exe
+C:\Projects\+\Sports Broadcaster\Sports Broadcaster\obj\Debug\Sports Broadcaster.pdb
